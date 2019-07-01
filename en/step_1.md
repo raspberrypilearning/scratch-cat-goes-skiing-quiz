@@ -6,7 +6,7 @@ This is the **Scratch 3** version of the project. There is also a [Scratch 2 ver
 
 ## Introduction
 
-<html><p>In this <b>Foundation Level</b> <img src="images.foundation.png"> project, You are going to use Scratch to create a skiing game in which you have to avoid randomly appearing obstacles to score points.</p></html>
+<html><p>In this <b>Foundation Level</b> <img src="images/foundation.png"> project, You are going to use Scratch to create a skiing game in which you have to avoid randomly appearing obstacles to score points.</p></html>
 
 ### What you will make
 
