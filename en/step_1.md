@@ -28,16 +28,40 @@ This is a **Foundation** level project.
 
 ![curriculum](images/curriculum.png)
 
-![guided](images/guided.png)
-- Use random numbers to choose a sprite's position
+<html>
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{font-family:Arial, sans-serif;font-size:14px;padding:10px 5px;border-style:solid;border-width:1px;overflow:hidden;word-break:normal;border-color:black;}
+.tg th{font-family:Arial, sans-serif;font-size:14px;font-weight:normal;padding:10px 5px;border-style:solid;border-width:1px;overflow:hidden;word-break:normal;border-color:black;}
+.tg .tg-73oq{border-color:#000000;text-align:left;vertical-align:top}
+</style>
+<table class="tg">
+  <tr>
+    <th class="tg-73oq">![guided](images/guided.png)</th>
+    <th class="tg-73oq">Use random numbers to choose a sprite's position</th>
+  </tr>
+  <tr>
+    <td class="tg-73oq">![assistance](images/assisted.png)</td>
+    <td class="tg-73oq">Use sensing blocks to detect when sprites touch each other</br>
+Detect keypresses to change a sprite's `x` and `y` position</td>
+  </tr>
+  <tr>
+    <td class="tg-73oq">![independent](images/independent.png)</td>
+    <td class="tg-73oq">Use random positioning and collision detection on additional sprites</td>
+  </tr>
+</table>
+</html>
 
-![assistance](images/assisted.png)
-- Use sensing blocks to detect when sprites touch each other
 
-- Detect keypresses to change a sprite's `x` and `y` position
 
-![independent](images/independent.png)
-- Use random positioning and collision detection on additional sprites
+
+
+
+
+
+
+
+
 
 
 
