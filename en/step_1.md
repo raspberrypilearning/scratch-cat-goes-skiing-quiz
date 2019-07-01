@@ -23,7 +23,7 @@ In this project you will create a skiing game, guiding the Scratch cat down a sk
 title: What you will learn
 ---
 
-[foundation](images/foundation.png)
+![foundation](images/foundation.png)
 This is a **Foundation** level project.
 
 ![curriculum](images/curriculum.png)
