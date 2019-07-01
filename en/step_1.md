@@ -1,18 +1,9 @@
---- no-print ---
-
-This is the **Scratch 3** version of the project. There is also a [Scratch 2 version of the project](https://projects.raspberrypi.org/en/projects/scratch-cat-goes-skiing-scratch2).
-
---- /no-print ---
-
-## Introduction
-
-<html><p>In this <b>Foundation Level</b> <img src="images/foundation.png"> project, You are going to use Scratch to create a skiing game in which you have to avoid randomly appearing obstacles to score points.</p></html>
-
-### What you will make
+## What you will make
 
 --- no-print ---
-Click on the green flag to start. Use the left and right arrow keys to control the skier.
+In this project you will create a skiing game, guiding the Scratch cat down a ski slope and avoiding obstacles to gain points.
 
+Click on the green flag to start and then use the arrow keys to control the cat.
 <div class="scratch-preview">
   <iframe allowtransparency="true" width="485" height="402" src="//scratch.mit.edu/projects/embed/281116583/?autostart=false" frameborder="0" scrolling="no"></iframe>
   <img src="images/skiing-final.png">
@@ -21,10 +12,37 @@ Click on the green flag to start. Use the left and right arrow keys to control t
 --- /no-print ---
 
 --- print-only ---
+In this project you will create a skiing game, guiding the Scratch cat down a ski slope and avoiding obstacles to gain points.
 
 ![complete project](images/skiing-final.png)
 
 --- /print-only ---
+
+--- collapse ---
+---
+title: What you will learn
+---
+
+[foundation](images/foundation.png)
+This is a **Foundation** level project.
+
+![curriculum](images/curriculum.png)
+
+![guided](images/guided.png)
+- Use random numbers to choose a sprite's position
+
+![assistance](images/assisted.png)
+- Use sensing blocks to detect when sprites touch each other
+
+- Detect keypresses to change a sprite's `x` and `y` position
+
+![independent](images/independent.png)
+- Use random positioning and collision detection on additional sprites
+
+
+
+
+--- /collapse ---
 
 --- collapse ---
 
@@ -43,17 +61,6 @@ title: What you will need
 ### Downloads
 
 The starter project can be found [here](http://rpf.io/p/en/scratch-cat-goes-skiing-go){:target="_blank"}.
-
---- /collapse ---
-
---- collapse ---
-
----
-title: What you will learn
----
-- Recall how to use code to respond to key presses
-- Use sensing blocks to detect when sprites touch each other
-- Use random numbers to choose a sprite's position
 
 --- /collapse ---
 
