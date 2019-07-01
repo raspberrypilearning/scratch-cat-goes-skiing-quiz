@@ -37,13 +37,15 @@ This is a **Foundation** level project.
 </style>
 <table class="tg">
   <tr>
-    <th class="tg-73oq"><img src="images/guided.png" width="80"></th>
-    <th class="tg-73oq">Use random numbers to choose a sprite's position</th>
+    <td class="tg-73oq"><img src="images/guided.png" width="80"></td>
+    <td class="tg-73oq">Use random numbers to choose a sprite's position</td>
   </tr>
   <tr>
-    <td class="tg-73oq"><img src="images/assisted.png" width="80"></td>
-    <td class="tg-73oq">Use sensing blocks to detect when sprites touch each other</br>
-Detect keypresses to change a sprite's `x` and `y` position</td>
+    <td class="tg-73oq" rowspan="2"><img src="images/assisted.png" width="80"></td>
+    <td class="tg-73oq">Use sensing blocks to detect when sprites touch each other.</td>
+  </tr>
+  <tr>
+  <td class="tg-73oq">Detect keypresses to change a sprite's `x` and `y` position</td>
   </tr>
   <tr>
     <td class="tg-73oq"><img src="images/independent.png" width="80"></td>
