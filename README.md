@@ -1,11 +1,11 @@
-# scratch-cat-goes-skiing-quiz
+# scratch-cat-goes-skiing
 
-![scratch-cat-goes-skiing-quiz](banner.png)
+![scratch-cat-goes-skiing](/en/images/banner.png)
 
-Find the project online at [projects.raspberrypi.org/en/projects/scratch-cat-goes-skiing-quiz](https://projects.raspberrypi.org/en/projects/scratch-cat-goes-skiing-quiz)
+Find the project online at [projects.raspberrypi.org/en/projects/scratch-cat-goes-skiing](https://projects.raspberrypi.org/en/projects/scratch-cat-goes-skiing)
 
 ## Resources
-For solutions and project materials, see [en/resources](https://github.com/raspberrypilearning/scratch-cat-goes-skiing-quiz/tree/master/en/resources)
+For solutions and project materials, see [en/resources](https://github.com/raspberrypilearning/scratch-cat-goes-skiing/tree/master/en/resources)
 
 ## Contributing
 See [CONTRIBUTING.md](CONTRIBUTING.md)
