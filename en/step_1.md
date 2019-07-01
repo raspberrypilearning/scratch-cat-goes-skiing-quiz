@@ -6,7 +6,7 @@ This is the **Scratch 3** version of the project. There is also a [Scratch 2 ver
 
 ## Introduction
 
-You are going to use Scratch to create a skiing game in which you have to avoid randomly appearing obstacles to score points.
+In this **Foundation Level** project, You are going to use Scratch to create a skiing game in which you have to avoid randomly appearing obstacles to score points. ![image](images/foundation.png)
 
 ### What you will make
 
